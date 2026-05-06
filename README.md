@@ -62,10 +62,10 @@
 
 | Project | Description | Tools | Live Demo |
 |---|---|---|---|
-| 🏦 [Credit Risk Scoring Model](https://github.com/Modupe-Favour/credit-risk-scoring) | Predicts loan default risk with SHAP explainability | XGBoost, LightGBM, SHAP, Streamlit | [Demo](#) |
-| 📉 [Customer Churn Prediction](https://github.com/Modupe-Favour/customer-churn-prediction) | Predicts telecom customer churn with business dashboard | Scikit-learn, Plotly, Streamlit | [Demo](#) |
+| 🏦 [Credit Risk Scoring Model](https://github.com/Modupe-Favour/credit-risk-scoring) | Predicts loan default risk with SHAP explainability | XGBoost, LightGBM, SHAP, Streamlit | [Demo](https://accessibilityquiz-hukqgornpgtwaqnxzv6mew.streamlit.app/) |
+| 📉 [Customer Churn Prediction](https://github.com/Modupe-Favour/customer-churn-prediction) | Predicts telecom customer churn with business dashboard | Scikit-learn, Plotly, Streamlit | [Demo](https://customer-churn-prediction-8y66blgkgpzkmolqkshmwq.streamlit.app/) |
 | 🤖 [NLP Resume Screener](https://github.com/Modupe-Favour/nlp-resume-screener) | Scores CV-to-job match using NLP and TF-IDF | spaCy, NLTK, Plotly Dash | [Demo](#) |
-| 🗃️ [Auto EDA Tool](https://github.com/Modupe-Favour/auto-eda-tool) | Generates instant EDA reports from any CSV upload | Pandas, Plotly, Streamlit | [Demo](#) |
+| 🗃️ [Auto EDA Tool](https://github.com/Modupe-Favour/auto-eda-tool) | Generates instant EDA reports from any CSV upload | Pandas, Plotly, Streamlit | [Demo](https://auto-eda-tool-jh2rtugiahqth3pa9j4qct.streamlit.app/) |
 
 ---
 
