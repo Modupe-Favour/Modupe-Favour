@@ -66,6 +66,7 @@
 | 📉 [Customer Churn Prediction](https://github.com/Modupe-Favour/customer-churn-prediction) | Predicts telecom customer churn with business dashboard | Scikit-learn, Plotly, Streamlit | [Demo](https://customer-churn-prediction-8y66blgkgpzkmolqkshmwq.streamlit.app/) |
 | 🤖 [NLP Resume Screener](https://github.com/Modupe-Favour/nlp-resume-screener) | Scores CV-to-job match using NLP and TF-IDF | spaCy, NLTK, Plotly Dash | [Demo](#) |
 | 🗃️ [Auto EDA Tool](https://github.com/Modupe-Favour/auto-eda-tool) | Generates instant EDA reports from any CSV upload | Pandas, Plotly, Streamlit | [Demo](https://auto-eda-tool-jh2rtugiahqth3pa9j4qct.streamlit.app/) |
+| 📉 [Time Series Forecasting](https://github.com/Modupe-Favour/time-series-forecasting) | Demonstrates four different forecasting approaches | Statsmodel, Facebook Prophet, Streamlit | [Demo](https://time-series-forecasting-wxcatde8i66yaanjgawkpy.streamlit.app/) |
 
 ---
 
